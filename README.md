@@ -11,7 +11,7 @@ license: gpl-3.0
 short_description: Summarizing and translating feed content
 ---
 
-## Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 # Transum Feed
 
