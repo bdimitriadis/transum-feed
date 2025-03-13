@@ -62,7 +62,9 @@ To deploy the project on Hugging Face Spaces, follow these steps:
 
 For deployment on other cloud or live systems, consult the documentation provided by your chosen service provider. Each platform may have specific requirements and steps for deploying Python-based applications.
 
-> [!TIP] > **Hardware Recommendations**
+> [!TIP]
+>
+> **Hardware Recommendations**
 >
 > GPU Usage: It is highly recommended to use GPUs for deployment, especially for resource-intensive tasks like summarization. GPU acceleration significantly reduces processing time compared to CPUs.
 >
