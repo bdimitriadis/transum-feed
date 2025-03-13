@@ -71,7 +71,7 @@ For deployment on other cloud or live systems, consult the documentation provide
 > CPU Usage: While CPUs can be used for deployment, they may result in slower performance, particularly for computationally demanding processes.
 
 > [!NOTE]
-> On Hugging Face in order to use GPUs that might be available with your account (depends on your account type), you have to uncomment **_import spaces_** and **_@spaces.GPU_** lines in **_transum_app.py_** file.
+> On Hugging Face in order to use GPUs that might be available with your account (depends on your account type), you have to uncomment **import spaces** and **@spaces.GPU** lines in **transum_app.py** file.
 
 ## Built With
 
